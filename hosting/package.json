@@ -13,6 +13,6 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "firebase": "^10.4.0"
+    "firebase": "^10.7.1"
   }
 }
